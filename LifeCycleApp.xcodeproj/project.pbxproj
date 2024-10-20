@@ -63,9 +63,9 @@
 				A85E3665262888C5009F7BAA /* SceneDelegate.swift */,
 				A85E367926288954009F7BAA /* Main.storyboard */,
 				A85E367B26288954009F7BAA /* LaunchScreen.storyboard */,
+				A85E3663262888C5009F7BAA /* AppDelegate.swift */,
 				A85E366C262888C7009F7BAA /* Assets.xcassets */,
 				A85E3671262888C7009F7BAA /* Info.plist */,
-				A85E3663262888C5009F7BAA /* AppDelegate.swift */,
 			);
 			path = LifeCycleApp;
 			sourceTree = "<group>";
@@ -277,7 +277,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GBTTU32HS2;
 				INFOPLIST_FILE = LifeCycleApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,7 +301,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GBTTU32HS2;
 				INFOPLIST_FILE = LifeCycleApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
